@@ -33,12 +33,12 @@
 # uncomment for composite PAL
 #sdtv_mode=2
 # uncomment to overclock the arm. 700 MHz is the default.
-initial_turbo=60
-over_voltage=15
-arm_freq_min=100
-arm_freq=2350
-gpu_freq=800
-gpu_mem=512
+#initial_turbo=60
+#over_voltage=15
+#arm_freq_min=100
+#arm_freq=2350
+#gpu_freq=800
+#gpu_mem=512
 # Uncomment some or all of these to enable the optional hardware interfaces
 #dtparam=i2c_arm=on
 #dtparam=i2s=on
